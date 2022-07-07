@@ -1,0 +1,11 @@
+*.iml
+.idea/
+env/
+__pycache__
+*.pyc
+*.pyo
+.pytest_cache
+*.vscode
+TEST-INTEGRATION.xml
+**/.DS_Store
+venv/

@@ -1,0 +1,15 @@
+{
+    "name": "zombie",
+    "page": "268",
+    "ingredients": [
+        {"name": "fresh lime juice", "amount": "¾ ounce", "page": null, "num": null},
+        {"amount": "¼ ounce",  "name": "fresh grapefruit juice", "page": null, "num": null},
+        {"amount": "¼ ounce",  "name": "SC Cinnamon Syrup", "page": "327", "num": null},
+        {"amount": "1 teaspoon",  "name": "SC Grenadine", "page": "328", "num": null},
+        {"amount": "½ ounce",  "name": "John D. Taylor's Velvet Falernum", "page": null, "num": null},
+        {"amount": "1½ ounces",  "name": "blended aged rum", "rum_category": "3", "page": null, "num": null},
+        {"amount": "1½ ounces",  "name": "column still aged rum", "rum_category": "4", "page": null, "num": null},
+        {"amount": "1 ounce",  "name": "black blended overproof rum", "page": null, "num": null},
+        {"amount": "2 dashes",  "name": "Herbstura", "page": null, "num": null}
+    ]
+}
