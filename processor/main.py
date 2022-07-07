@@ -26,7 +26,6 @@ class Processor:
 
     def run(self) -> int:
         name = ''
-        page = ''
         ingredients = []
 
         linecount = 0
@@ -34,8 +33,6 @@ class Processor:
         for line in self.input:
             if linecount == 0:
                 name = line
-            elif linecount == 1:
-                page = line
             else:
                 self.processLine(line, ingredients)
 
@@ -43,7 +40,6 @@ class Processor:
 
         self.output = {
             "name": name,
-            "page": page,
             "ingredients": ingredients,
         }
 
