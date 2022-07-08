@@ -1,6 +1,8 @@
+import codecs
 import json
 from io import StringIO
 import re
+import sys
 
 
 class Processor:
@@ -60,5 +62,15 @@ class Processor:
         return self.output
 
     def write(self, filename):
-        with open(filename, 'w') as fd:
-            fd.write(json.dumps(self.output))
+        with codecs.open(filename, 'w', encoding='utf-8') as fd:
+            json.dump(self.output, fd, ensure_ascii=False)
+
+
+if __name__ == '__main__':
+    filename = sys.argv[1]
+    print(f'processing to {filename}')
+    proc = Processor(input=filename)
+    proc.run()
+    outname = '.'.join([filename.split('.')[0], 'json'])
+    print(f'printing to {outname}')
+    proc.write(outname)
