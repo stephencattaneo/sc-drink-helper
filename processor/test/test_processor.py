@@ -14,11 +14,6 @@ def input_data():
 
 @pytest.fixture
 def output_data():
-    # yield {
-    # "name": "zombie",
-    # "page": "268",
-    # "ingredients": [],
-    # }
     with open(LOCATION + '/out_data.json') as fd:
         yield json.loads(fd.read())
 

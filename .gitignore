@@ -9,3 +9,5 @@ __pycache__
 TEST-INTEGRATION.xml
 **/.DS_Store
 venv/
+processor-errors.txt
+merger-errors.txt

@@ -1,369 +1,3184 @@
 [
-{
-    "name": "Aku Aku",
-    "page": 39
-},
-{
-    "name": "Arrack Punch",
-    "page": 163
-},
-{
-    "name": "Barbados Rum Punch",
-    "page": 179
-},
-{
-    "name": "Bombo",
-    "page": 167
-},
-{
-    "name": "Boo Loo",
-    "page": 249
-},
-{
-    "name": "Bumboat",
-    "page": 252
-},
-{
-    "name": "Calibogus",
-    "page": 167
-},
-{
-    "name": "Callaloo Cooler",
-    "page": 121
-},
-{
-    "name": "Captain's Grog",
-    "page": 65
-},
-{
-    "name": "Caribeño",
-    "page": 249
-},
-{
-    "name": "Center of the Galaxy",
-    "page": 121
-},
-{
-    "name": "The Chadburn",
-    "page": 201
-},
-{
-    "name": "Cora Middleton",
-    "page": 174
-},
-{
-    "name": "Corn and Oil",
-    "page": 180
-},
-{
-    "name": "Cosa Nostra #2",
-    "page": 210
-},
-{
-    "name": "Cuevas",
-    "page": 118
-},
-{
-    "name": "Daiquiri No. 1",
-    "page": 168
-},
-{
-    "name": "Daisy de Santiago",
-    "page": 171
-},
-{
-    "name": "The Dead Reckoning",
-    "page": 142
-},
-{
-    "name": "Demerara Dry Float",
-    "page": 44
-},
-{
-    "name": "Doctor Funk",
-    "page": 266
-},
-{
-    "name": "Don's Own Grog",
-    "page": 40
-},
-{
-    "name": "El Presidente",
-    "page": 172
-},
-{
-    "name": "Eureka Punch",
-    "page": 312
-},
-{
-    "name": "The Expedition",
-    "page": 140
-},
-{
-    "name": "Falinum",
-    "page": 144
-},
-{
-    "name": "Finkelgrog",
-    "page": 145
-},
-{
-    "name": "Fog Cutter",
-    "page": 275
-},
-{
-    "name": "Formidable Dragon",
-    "page": 93
-},
-{
-    "name": "Golden Gun",
-    "page": 97
-},
-{
-    "name": "Grog",
-    "page": 165
-},
-{
-    "name": "Hana Reviver",
-    "page": 139
-},
-{
-    "name": "Hibiscus Rum Punch",
-    "page": 176
-},
-{
-    "name": "Hinky Dinks Fizzy",
-    "page": 97
-},
-{
-    "name": "Hondo Hattie's Jungle Punch",
-    "page": 311
-},
-{
-    "name": "Hot Buttered Rum",
-    "page": 202
-},
-{
-    "name": "Hotel Nacional Special",
-    "page": 171
-},
-{
-    "name": "Hurricane",
-    "page": 68
-},
-{
-    "name": "Jamaican Milk Punch",
-    "page": 180
-},
-{
-    "name": "Jet Pilot",
-    "page": 61
-},
-{
-    "name": "Jungle Bird",
-    "page": 96
-},
-{
-    "name": "Kahiko Punch",
-    "page": 311
-},
-{
-    "name": "Kaiteur Swizzle",
-    "page": 140
-},
-{
-    "name": "Kingston Palaka",
-    "page": 204
-},
-{
-    "name": "La Guildive",
-    "page": 116
-},
-{
-    "name": "Lauwiliwilinukunuku'ol'oi",
-    "page":144
-},
-{
-    "name": "Lei Lani Volcano 2.0",
-    "page": 94
-},
-{
-    "name": "Mai Tai",
-    "page": 261
-},
-{
-    "name": "Mary Pickford",
-    "page": 168
-},
-{
-    "name": "The Mastadon",
-    "page": 251
-},
-{
-    "name": "Merciless Virgin",
-    "page": 67
-},
-{
-    "name": "Millionaire Cocktail (No. 1)",
-    "page": 175
-},
-{
-    "name": "Mundo Perdido",
-    "page": 93
-},
-{
-    "name": "The Naked Ape",
-    "page": 134
-},
-{
-    "name": "Navy Grog",
-    "page": 271
-},
-{
-    "name": "Pampanito",
-    "page": 115
-},
-{
-    "name": "Paniolo Old-Fashioned",
-    "page": 203
-},
-{
-    "name": "Parisian Blonde",
-    "page": 174
-},
-{
-    "name": "Peachtree Punch 2.0",
-    "page": 96
-},
-{
-    "name": "Piñata",
-    "page": 252
-},
-{
-    "name": "Planter's Punch",
-    "page": 258
-},
-{
-    "name": "Port Au Prince",
-    "page": 40
-},
-{
-    "name": "Port Royal",
-    "page": 204
-},
-{
-    "name": "Puka Punch",
-    "page": 318
-},
-{
-    "name": "Pupule",
-    "page": 39
-},
-{
-    "name": "Queen's Park Swizzle",
-    "page": 181
-},
-{
-    "name": "Richard Sealebach",
-    "page": 209
-},
-{
-    "name": "Roselita",
-    "page": 120
-},
-{
-    "name": "Rumbustion Punch",
-    "page": 313
-},
-{
-    "name": "Rum Flip",
-    "page": 165
-},
-{
-    "name": "Scorpion",
-    "page": 272
-},
-{
-    "name": "Shudders in a Whisper",
-    "page": 118
-},
-{
-    "name": "Sidewinder's Fang",
-    "page": 62
-},
-{
-    "name": "Smuggler's Rum Barrel",
-    "page": 139
-},
-{
-    "name": "Sparkling Mai Tai",
-    "page": 136
-},
-{
-    "name": "Spontaneous Rumbustion",
-    "page": 210
-},
-{
-    "name": "Three Dots and a Dash",
-    "page": 43
-},
-{
-    "name": "Tiki Bowl",
-    "page": 68
-},
-{
-    "name": "Top Notch Volcano",
-    "page": 134
-},
-{
-    "name": "Tradewinds",
-    "page": 94
-},
-{
-    "name": "Triumvirate Punch",
-    "page": 312
-},
-{
-    "name": "Twelve Mile Limit",
-    "page": 172
-},
-{
-    "name": "The Twenty Seventy Swizzle",
-    "page": 116
-},
-{
-    "name": "The Undead Gentleman",
-    "page": 142
-},
-{
-    "name": "Wilfred Brimley",
-    "page": 202
-},
-{
-    "name": "A Wish for Grace",
-    "page": 201
-},
-{
-    "name": "Wray & Ting",
-    "page": 176
-},
-{
-    "name": "Yuletidal Wave",
-    "page": 313
-},
-{
-    "name": "Zombie",
-    "page": 268,
-    "ingredients": [
-        {"name": "fresh lime juice", "amount": "¾ ounce", "page": null, "num": null},
-        {"amount": "¼ ounce",  "name": "fresh grapefruit juice", "page": null, "num": null},
-        {"amount": "¼ ounce",  "name": "SC Cinnamon Syrup", "page": "327", "num": null},
-        {"amount": "1 teaspoon",  "name": "SC Grenadine", "page": "328", "num": null},
-        {"amount": "½ ounce",  "name": "John D. Taylor's Velvet Falernum", "page": null, "num": null},
-        {"amount": "1½ ounces",  "name": "blended aged rum", "rum_category": "3", "page": null, "num": null},
-        {"amount": "1½ ounces",  "name": "column still aged rum", "rum_category": "4", "page": null, "num": null},
-        {"amount": "1 ounce",  "name": "black blended overproof rum", "rum_category": "6", "page": null, "num": null},
-        {"amount": "2 dashes",  "name": "Herbstura", "page": null, "num": null}
-    ]
-}
+    {
+        "name": "aku aku",
+        "page": 39
+    },
+    {
+        "name": "arrack punch",
+        "page": 163,
+        "ingredients": [
+            {
+                "amount": "2 ounces",
+                "name": "fresh lemon juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "2 ounces",
+                "name": "fresh lime juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "3 ounces",
+                "name": "SC Demerara Syrup",
+                "page": "324",
+                "num": null
+            },
+            {
+                "amount": "6 ounces",
+                "name": "Batavia arrack",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "2 ounces",
+                "name": "pot still lightly aged rum",
+                "page": null,
+                "num": null,
+                "rum_category": "1"
+            },
+            {
+                "amount": "6 ounces",
+                "name": "Carbonated Chai Tea",
+                "page": null,
+                "num": null
+            }
+        ]
+    },
+    {
+        "name": "barbados rum punch",
+        "page": 179,
+        "ingredients": [
+            {
+                "amount": "1 ounce",
+                "name": "fresh lime juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1 ounce",
+                "name": "SC Demerara Syrup",
+                "page": "324",
+                "num": null
+            },
+            {
+                "amount": "2 ounces",
+                "name": "blended aged rum",
+                "page": null,
+                "num": null,
+                "rum_category": "3"
+            },
+            {
+                "amount": "1 dash",
+                "name": "Angostura bitters",
+                "page": null,
+                "num": null
+            }
+        ]
+    },
+    {
+        "name": "bombo",
+        "page": 167,
+        "ingredients": [
+            {
+                "amount": "¼ ounce",
+                "name": "SC Demerara Syrup",
+                "page": "324",
+                "num": null
+            },
+            {
+                "amount": "2 ounces",
+                "name": "blended aged rum",
+                "page": null,
+                "num": null,
+                "rum_category": "3"
+            }
+        ]
+    },
+    {
+        "name": "boo loo",
+        "page": 249,
+        "ingredients": [
+            {
+                "amount": "6 chunks",
+                "name": "fresh pineapple",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "2½ ounces",
+                "name": "pineapple juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1½ ounces",
+                "name": "fresh lime juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1¼ ounces",
+                "name": "SC Honey Syrup",
+                "page": "325",
+                "num": null
+            },
+            {
+                "amount": "1½ ounces",
+                "name": "blended aged rum",
+                "page": null,
+                "num": null,
+                "rum_category": "3"
+            },
+            {
+                "amount": "1½ ounces",
+                "name": "column still aged rum",
+                "page": null,
+                "num": null,
+                "rum_category": "4"
+            },
+            {
+                "amount": "¾ ounce",
+                "name": "black blended rum",
+                "page": null,
+                "num": null,
+                "rum_category": "5"
+            },
+            {
+                "amount": "¾ ounce",
+                "name": "black blended overproof rum",
+                "page": null,
+                "num": null,
+                "rum_category": "6"
+            },
+            {
+                "amount": "1½ ounces",
+                "name": "seltzer",
+                "page": null,
+                "num": null
+            }
+        ]
+    },
+    {
+        "name": "bumboat",
+        "page": 252,
+        "ingredients": [
+            {
+                "amount": "2 ounces",
+                "name": "pineapple juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1½ ounces",
+                "name": "fresh lemon juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "¾ ounce",
+                "name": "SC Cinnamon Syrup",
+                "page": "327",
+                "num": null
+            },
+            {
+                "amount": "1 ounce",
+                "name": "rye",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1 ounce",
+                "name": "blended lightly aged rum",
+                "page": null,
+                "num": null,
+                "rum_category": "2"
+            },
+            {
+                "amount": "3 drops",
+                "name": "almond extract",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "6 drops",
+                "name": "Bittermens 'Elemakule Tiki bitters",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "¾ ounce",
+                "name": "black blended overproof rum",
+                "page": null,
+                "num": null,
+                "rum_category": "6"
+            }
+        ]
+    },
+    {
+        "name": "calibogus",
+        "page": 167,
+        "ingredients": [
+            {
+                "amount": "3 ounces",
+                "name": "seltzer",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "¼ ounce",
+                "name": "fresh lime juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "¾ ounce",
+                "name": "SC Molasses Syrup",
+                "page": "327",
+                "num": null
+            },
+            {
+                "amount": "1 drop",
+                "name": "spruce beer soda extract",
+                "page": "335",
+                "num": null
+            },
+            {
+                "amount": "¾ ounce",
+                "name": "Zirbenz Stone Pine liqueur",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1¼ ounce",
+                "name": "blended aged rum",
+                "page": null,
+                "num": null,
+                "rum_category": "3"
+            }
+        ]
+    },
+    {
+        "name": "callaloo cooler",
+        "page": 121,
+        "ingredients": [
+            {
+                "amount": "1 ounce",
+                "name": "seltzer",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "¾ ounce",
+                "name": "fresh lime juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "SC Cinnamon Syrup",
+                "page": "327",
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "Cherry Heering",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "2 ounces",
+                "name": "blended lightly aged rum",
+                "page": null,
+                "num": null,
+                "rum_category": "2"
+            },
+            {
+                "amount": "1 dash",
+                "name": "Angostura bitters",
+                "page": null,
+                "num": null
+            }
+        ]
+    },
+    {
+        "name": "captain's grog",
+        "page": 65
+    },
+    {
+        "name": "caribeño",
+        "page": 249
+    },
+    {
+        "name": "center of the galaxy",
+        "page": 121,
+        "ingredients": [
+            {
+                "amount": "½ ounce",
+                "name": "fresh lime juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "SC Demerara Syrup",
+                "page": "324",
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "SC Honey Syrup",
+                "page": "325",
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "St",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "2 ounces",
+                "name": "blended aged rum",
+                "page": null,
+                "num": null,
+                "rum_category": "3"
+            },
+            {
+                "amount": "Pinch of",
+                "name": "freshly ground cinnamon",
+                "page": null,
+                "num": null
+            }
+        ]
+    },
+    {
+        "name": "the chadburn",
+        "page": 201,
+        "ingredients": [
+            {
+                "amount": "½ ounce",
+                "name": "tawny port",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "natural pear liqueur",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "2 ounces",
+                "name": "blended aged rum",
+                "page": null,
+                "num": null,
+                "rum_category": "3"
+            },
+            {
+                "amount": "6 drops",
+                "name": "Bittermens Xocolatl",
+                "page": null,
+                "num": null
+            }
+        ]
+    },
+    {
+        "name": "cora middleton",
+        "page": 174,
+        "ingredients": [
+            {
+                "amount": "2 teaspoons",
+                "name": "egg white",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "2 ounces",
+                "name": "blended aged rum",
+                "page": null,
+                "num": null,
+                "rum_category": "3"
+            },
+            {
+                "amount": "¾ ounce",
+                "name": "fresh lime juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "¼ ounce",
+                "name": "SC Demerara Syrup",
+                "page": "324",
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "Small Hand Foods Raspberry Gum Syrup",
+                "page": null,
+                "num": null
+            }
+        ]
+    },
+    {
+        "name": "corn and oil",
+        "page": 180,
+        "ingredients": [
+            {
+                "amount": "½ ounce",
+                "name": "John D. Taylor's Velvet Falernum",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "2 ounces",
+                "name": "blended aged rum",
+                "page": null,
+                "num": null,
+                "rum_category": "5"
+            },
+            {
+                "amount": "2 to 4 dashes",
+                "name": "Angostura bitters",
+                "page": null,
+                "num": null
+            }
+        ]
+    },
+    {
+        "name": "cosa nostra #2",
+        "page": 210
+    },
+    {
+        "name": "cuevas",
+        "page": 118,
+        "ingredients": [
+            {
+                "amount": "¼ ounce",
+                "name": "SC Cinnamon Syrup",
+                "page": "327",
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "Punt e Mes",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "¼ ounce",
+                "name": "tawny port",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "2 ounces",
+                "name": "blended aged rum",
+                "page": null,
+                "num": null,
+                "rum_category": "3"
+            },
+            {
+                "amount": "6 drops",
+                "name": "Bittermens 'Elemakule Tiki bitters",
+                "page": null,
+                "num": null
+            }
+        ]
+    },
+    {
+        "name": "daiquiri no. 1",
+        "page": 168
+    },
+    {
+        "name": "daisy de santiago",
+        "page": 171,
+        "ingredients": [
+            {
+                "amount": "1 ounce",
+                "name": "fresh lime juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1½ teaspoons",
+                "name": "SC Demerara Syrup",
+                "page": "324",
+                "num": null
+            },
+            {
+                "amount": "1 ounce",
+                "name": "seltzer",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "Yellow Chartreuse",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1½ ounces",
+                "name": "blended lightly aged rum",
+                "page": null,
+                "num": null,
+                "rum_category": "2"
+            }
+        ]
+    },
+    {
+        "name": "the dead reckoning",
+        "page": 142,
+        "ingredients": [
+            {
+                "amount": "1 ounce",
+                "name": "seltzer",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1 ounce",
+                "name": "fresh lemon juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1 ounce",
+                "name": "pineapple juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "Grade A maple syrup",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "SC Vanilla Brandy",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "tawny port",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "2 ounces",
+                "name": "blended aged rum",
+                "page": null,
+                "num": null,
+                "rum_category": "3"
+            },
+            {
+                "amount": "1 dash",
+                "name": "Angostura bitters",
+                "page": null,
+                "num": null
+            }
+        ]
+    },
+    {
+        "name": "demerara dry float",
+        "page": 44,
+        "ingredients": [
+            {
+                "amount": "¾ ounce",
+                "name": "black blended overproof rum",
+                "page": null,
+                "num": null,
+                "rum_category": "6"
+            },
+            {
+                "amount": "2 ounces",
+                "name": "fresh lime juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1 teaspoon",
+                "name": "fresh lemon juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1½ ounces",
+                "name": "SC Passion Fruit Syrup",
+                "page": "325",
+                "num": null
+            },
+            {
+                "amount": "¼ ounce",
+                "name": "SC Demerara Syrup",
+                "page": "324",
+                "num": null
+            },
+            {
+                "amount": "¼ ounce",
+                "name": "Luxardo Maraschino liqueur",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1½ ounces",
+                "name": "blended aged rum",
+                "page": null,
+                "num": null,
+                "rum_category": "3"
+            }
+        ]
+    },
+    {
+        "name": "doctor funk",
+        "page": 266
+    },
+    {
+        "name": "don's own grog",
+        "page": 40,
+        "ingredients": [
+            {
+                "amount": "¾ ounce",
+                "name": "fresh lime juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "¼ ounce",
+                "name": "SC Demerara Syrup",
+                "page": "324",
+                "num": null
+            },
+            {
+                "amount": "1 dash",
+                "name": "SC Grenadine",
+                "page": "328",
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "Leopold Brothers Rocky Mountain Blackberry Liqueur",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1 ounce",
+                "name": "blended aged rum",
+                "page": null,
+                "num": null,
+                "rum_category": "3"
+            },
+            {
+                "amount": "½ ounce",
+                "name": "blended lightly aged rum",
+                "page": null,
+                "num": null,
+                "rum_category": "2"
+            },
+            {
+                "amount": "½ ounce",
+                "name": "black blended rum",
+                "page": null,
+                "num": null,
+                "rum_category": "5"
+            },
+            {
+                "amount": "1 dash",
+                "name": "Angosutra bitters",
+                "page": null,
+                "num": null
+            }
+        ]
+    },
+    {
+        "name": "el presidente",
+        "page": 172,
+        "ingredients": [
+            {
+                "amount": "½ teaspoon",
+                "name": "SC Grenadine",
+                "page": "328",
+                "num": null
+            },
+            {
+                "amount": "¾ ounce",
+                "name": "dry vermouth",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "Pierre Ferrand Dry Curaçao",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1½ ounces",
+                "name": "blended lightly aged rum",
+                "page": null,
+                "num": null,
+                "rum_category": "2"
+            }
+        ]
+    },
+    {
+        "name": "eureka punch",
+        "page": 312
+    },
+    {
+        "name": "the expedition",
+        "page": 140,
+        "ingredients": [
+            {
+                "amount": "1 ounce",
+                "name": "fresh lime juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "SC Cinnamon Syrup",
+                "page": "327",
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "SC Honey Syrup",
+                "page": "325",
+                "num": null
+            },
+            {
+                "amount": "¼ ounce",
+                "name": "SC Vanilla Syrup",
+                "page": "326",
+                "num": null
+            },
+            {
+                "amount": "2 ounces",
+                "name": "seltzer",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "¼ ounce",
+                "name": "Bittermens New Orleans Coffee Liqueur",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "2 ounces",
+                "name": "black blended rum",
+                "page": null,
+                "num": null,
+                "rum_category": "5"
+            },
+            {
+                "amount": "1 ounce",
+                "name": "bourbon",
+                "page": null,
+                "num": null
+            }
+        ]
+    },
+    {
+        "name": "falinum",
+        "page": 144,
+        "ingredients": [
+            {
+                "amount": "1 ounce",
+                "name": "fresh lemon juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1 ounce",
+                "name": "SC Coconut Cream",
+                "page": "328",
+                "num": null
+            },
+            {
+                "amount": "1 ounce",
+                "name": "seltzer",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "John D. Taylor's Velvet Falernum",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "2 ounces",
+                "name": "column still aged rum",
+                "page": null,
+                "num": null,
+                "rum_category": "4"
+            },
+            {
+                "amount": "1 dash",
+                "name": "orange bitters",
+                "page": null,
+                "num": null
+            }
+        ]
+    },
+    {
+        "name": "finkelgrog",
+        "page": 145,
+        "ingredients": [
+            {
+                "amount": "½ ounce",
+                "name": "fresh lime juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "fresh grapefruit juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "¼ ounce",
+                "name": "SC Orgeat",
+                "page": "330",
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "Napa Wine Syrup",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "Licor 43",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1 ounce",
+                "name": "blended lightly aged rum",
+                "page": null,
+                "num": null,
+                "rum_category": "2"
+            },
+            {
+                "amount": "1 ounce",
+                "name": "black blended rum",
+                "page": null,
+                "num": null,
+                "rum_category": "5"
+            },
+            {
+                "amount": "1 ounce",
+                "name": "seltzer",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "Pinch of",
+                "name": "freshly ground cinnamon",
+                "page": null,
+                "num": null
+            }
+        ]
+    },
+    {
+        "name": "fog cutter",
+        "page": 275,
+        "ingredients": [
+            {
+                "amount": "1½ ounce",
+                "name": "fresh lemon juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1½ ounce",
+                "name": "fresh orange juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "SC Orgeat",
+                "page": "330",
+                "num": null
+            },
+            {
+                "amount": "1 ounce",
+                "name": "pisco",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "gin",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "2 ounces",
+                "name": "blended lightly aged rum 2",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "oloroso sherry",
+                "page": null,
+                "num": null
+            }
+        ]
+    },
+    {
+        "name": "formidable dragon",
+        "page": 93,
+        "ingredients": [
+            {
+                "amount": "¾ ounce",
+                "name": "fresh lemon juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "¾ ounce",
+                "name": "fresh lime juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "SC Honey Syrup",
+                "page": "325",
+                "num": null
+            },
+            {
+                "amount": "¾ ounce",
+                "name": "SC Molasses Syrup",
+                "page": "327",
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "Amaro Di Angostura",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1½ ounces",
+                "name": "blended aged rum",
+                "page": null,
+                "num": null,
+                "rum_category": "3"
+            },
+            {
+                "amount": "1 ounce",
+                "name": "black blended rum",
+                "page": null,
+                "num": null,
+                "rum_category": "5"
+            },
+            {
+                "amount": "¼ ounce",
+                "name": "pot still lightly aged rum",
+                "page": null,
+                "num": null,
+                "rum_category": "1"
+            },
+            {
+                "amount": "1 ounce",
+                "name": "seltzer",
+                "page": null,
+                "num": null
+            }
+        ]
+    },
+    {
+        "name": "golden gun",
+        "page": 97,
+        "ingredients": [
+            {
+                "amount": "¾ ounce",
+                "name": "fresh lime juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "fresh grapefruit juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "SC Demerara Syrup",
+                "page": "324",
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "natural apricot liqueur",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1 ounce",
+                "name": "blended aged rum",
+                "page": null,
+                "num": null,
+                "rum_category": "3"
+            },
+            {
+                "amount": "1 ounce",
+                "name": "blended lightly aged rum",
+                "page": null,
+                "num": null,
+                "rum_category": "2"
+            },
+            {
+                "amount": "2 dashes",
+                "name": "Angostura bitters",
+                "page": null,
+                "num": null
+            }
+        ]
+    },
+    {
+        "name": "grog",
+        "page": 165,
+        "ingredients": [
+            {
+                "amount": "½ ounce",
+                "name": "fresh lime juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "SC Demerara Syrup",
+                "page": "324",
+                "num": null
+            },
+            {
+                "amount": "2 ounces",
+                "name": "rum",
+                "page": null,
+                "num": null
+            }
+        ]
+    },
+    {
+        "name": "hana reviver",
+        "page": 139,
+        "ingredients": [
+            {
+                "amount": "1 ounce",
+                "name": "fresh lemon juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1 ounce",
+                "name": "SC Passion Fruit Honey",
+                "page": "325",
+                "num": null
+            },
+            {
+                "amount": "¼ barspoon",
+                "name": "li hing mui powder",
+                "page": "335",
+                "num": null
+            },
+            {
+                "amount": "2 ounces",
+                "name": "seltzer",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1 barspoon",
+                "name": "Maraschino liqueur",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "2 ounces",
+                "name": "pot still unaged rum",
+                "page": "197",
+                "num": null
+            }
+        ]
+    },
+    {
+        "name": "hibiscus rum punch",
+        "page": 176,
+        "ingredients": [
+            {
+                "amount": "2 ounces",
+                "name": "seltzer",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "fresh lime juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1 ounce",
+                "name": "SC Hibiscus Liqueur",
+                "page": "331",
+                "num": null
+            },
+            {
+                "amount": "⅓ ounce",
+                "name": "SC Demerara Syrup",
+                "page": "324",
+                "num": null
+            },
+            {
+                "amount": "1½ ounces",
+                "name": "blended aged rum",
+                "page": null,
+                "num": null,
+                "rum_category": "3"
+            }
+        ]
+    },
+    {
+        "name": "hinky dinks fizzy",
+        "page": 97,
+        "ingredients": [
+            {
+                "amount": "2 ounces",
+                "name": "sparkling wine",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1½ ounces",
+                "name": "pineapple juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "fresh lime juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "SC Passion Fruit Syrup",
+                "page": "325",
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "natural apricot liqueur",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1 ounce",
+                "name": "London dry gin",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1 ounce",
+                "name": "blended lightly aged rum",
+                "page": null,
+                "num": null,
+                "rum_category": "2"
+            }
+        ]
+    },
+    {
+        "name": "hondo hattie's jungle punch",
+        "page": 311
+    },
+    {
+        "name": "hot buttered rum",
+        "page": 202,
+        "ingredients": [
+            {
+                "amount": "3 barspoons",
+                "name": "SC Hot Buttered Rum Batter",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1½ ounces",
+                "name": "blended aged rum",
+                "page": null,
+                "num": null,
+                "rum_category": "3"
+            },
+            {
+                "amount": "6 ounces",
+                "name": "hot water",
+                "page": null,
+                "num": null
+            }
+        ]
+    },
+    {
+        "name": "hotel nacional special",
+        "page": 171,
+        "ingredients": [
+            {
+                "amount": "4 chunks",
+                "name": "pineapple",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "¾ ounce",
+                "name": "fresh lime juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "SC Demerara Syrup",
+                "page": "324",
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "natural apricot liqueur",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1½ ounces",
+                "name": "blended lightly aged rum",
+                "page": null,
+                "num": null,
+                "rum_category": "2"
+            }
+        ]
+    },
+    {
+        "name": "hurricane",
+        "page": 68,
+        "ingredients": [
+            {
+                "amount": "2 ounces",
+                "name": "fresh lemon juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "2 ounces",
+                "name": "SC Passion Fruit Syrup",
+                "page": "325",
+                "num": null
+            },
+            {
+                "amount": "4 ounces",
+                "name": "black blended rum",
+                "page": null,
+                "num": null,
+                "rum_category": "5"
+            }
+        ]
+    },
+    {
+        "name": "jamaican milk punch",
+        "page": 180,
+        "ingredients": [
+            {
+                "amount": "1 ounce",
+                "name": "whole milk",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1 ounce",
+                "name": "heavy whipping cream",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "SC Demerara Syrup",
+                "page": "324",
+                "num": null
+            },
+            {
+                "amount": "1 ounce",
+                "name": "black blended rum",
+                "page": null,
+                "num": null,
+                "rum_category": "5"
+            },
+            {
+                "amount": "6 drops",
+                "name": "vanilla extract",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1 dash",
+                "name": "Angostura bitters",
+                "page": null,
+                "num": null
+            }
+        ]
+    },
+    {
+        "name": "jet pilot",
+        "page": 61,
+        "ingredients": [
+            {
+                "amount": "½ ounce",
+                "name": "fresh lime juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "fresh grapefruit juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "SC Cinnamon Syrup",
+                "page": "327",
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "John D. Taylor's Velvet Falernum",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1 ounce",
+                "name": "black blended rum",
+                "page": null,
+                "num": null,
+                "rum_category": "5"
+            },
+            {
+                "amount": "¾ ounce",
+                "name": "blended aged rum",
+                "page": null,
+                "num": null,
+                "rum_category": "3"
+            },
+            {
+                "amount": "¾ ounce",
+                "name": "black blended overproof rum",
+                "page": null,
+                "num": null,
+                "rum_category": "6"
+            },
+            {
+                "amount": "1 dash",
+                "name": "Herbstura",
+                "page": "228",
+                "num": null
+            }
+        ]
+    },
+    {
+        "name": "jungle bird",
+        "page": 96,
+        "ingredients": [
+            {
+                "amount": "2 ounces",
+                "name": "pineapple juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "fresh lime juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "SC Demerara Syrup",
+                "page": "324",
+                "num": null
+            },
+            {
+                "amount": "¾ ounce",
+                "name": "Campari",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1½ ounces",
+                "name": "black blended rum",
+                "page": null,
+                "num": null,
+                "rum_category": "5"
+            }
+        ]
+    },
+    {
+        "name": "kahiko punch",
+        "page": 311,
+        "ingredients": [
+            {
+                "amount": "1 ounce",
+                "name": "fresh lemon juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1½ ounces",
+                "name": "SC Passion Fruit Honey",
+                "page": "325",
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "SC Cinnamon Syrup",
+                "page": "327",
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "SC Hibiscus Liqueur",
+                "page": "331",
+                "num": null
+            },
+            {
+                "amount": "2 ounces",
+                "name": "pot still unaged rum",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "6 drops",
+                "name": "Bittermans 'Elemakule Tiki bitters",
+                "page": null,
+                "num": null
+            }
+        ]
+    },
+    {
+        "name": "kaiteur swizzle",
+        "page": 140,
+        "ingredients": [
+            {
+                "amount": "¾ ounce",
+                "name": "fresh lime juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "Grade A maple syrup",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "John D. Taylor's Velvet Falernum",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "2 ounces",
+                "name": "blended aged rum",
+                "page": null,
+                "num": null,
+                "rum_category": "3"
+            },
+            {
+                "amount": "2 dashes",
+                "name": "Angostura bitters",
+                "page": null,
+                "num": null
+            }
+        ]
+    },
+    {
+        "name": "kingston palaka",
+        "page": 204,
+        "ingredients": [
+            {
+                "amount": "½ ounce",
+                "name": "fresh lemon juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "⅛ teaspoon",
+                "name": "li hing mui powder",
+                "page": "335",
+                "num": null
+            },
+            {
+                "amount": "1 ounce",
+                "name": "Drambuie",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1½ ounces",
+                "name": "blended aged rum",
+                "page": null,
+                "num": null,
+                "rum_category": "3"
+            }
+        ]
+    },
+    {
+        "name": "la guildive",
+        "page": 116,
+        "ingredients": [
+            {
+                "amount": "1 ounce",
+                "name": "ginger beer",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "fresh lime juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "Licor 43",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "¼ ounce",
+                "name": "natural peach liqueur",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "2 ounces",
+                "name": "blended aged rum",
+                "page": null,
+                "num": null,
+                "rum_category": "3"
+            },
+            {
+                "amount": "Pinch of",
+                "name": "freshly grated cinnamon",
+                "page": null,
+                "num": null
+            }
+        ]
+    },
+    {
+        "name": "lauwiliwilinukunuku'ol'oi",
+        "page": 144
+    },
+    {
+        "name": "lei lani volcano 2.0",
+        "page": 94,
+        "ingredients": [
+            {
+                "amount": "3 ounces",
+                "name": "Bundaberg Guava soda",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1½ ounces",
+                "name": "pineapple juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "¾ ounce",
+                "name": "lime juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1 ounce",
+                "name": "SC Coconut Cream",
+                "page": "328",
+                "num": null
+            },
+            {
+                "amount": "1½ ounces",
+                "name": "blended aged rum",
+                "page": null,
+                "num": null,
+                "rum_category": "3"
+            }
+        ]
+    },
+    {
+        "name": "mai tai",
+        "page": 261,
+        "ingredients": [
+            {
+                "amount": "¾ ounce",
+                "name": "fresh lime juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "¼ ounce",
+                "name": "SC Mai Tai Rich Simple Syrup",
+                "page": "326",
+                "num": null
+            },
+            {
+                "amount": "¼ ounce",
+                "name": "SC orgeat syrup",
+                "page": "330",
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "Pierre Ferrand dry curaçao",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "2 ounces",
+                "name": "blended aged rum",
+                "page": null,
+                "num": null,
+                "rum_category": "3"
+            }
+        ]
+    },
+    {
+        "name": "mary pickford",
+        "page": 168,
+        "ingredients": [
+            {
+                "amount": "1½ ounces",
+                "name": "pineapple juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1 barspoon",
+                "name": "SC Grenadine",
+                "page": "328",
+                "num": null
+            },
+            {
+                "amount": "6 drops",
+                "name": "Luxardo Maraschino liqueur",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1½ ounces",
+                "name": "blended lightly aged rum",
+                "page": null,
+                "num": null,
+                "rum_category": "2"
+            }
+        ]
+    },
+    {
+        "name": "the mastadon",
+        "page": 251,
+        "ingredients": [
+            {
+                "amount": "3 ounces",
+                "name": "pineapple juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "fresh lime juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1 ounce",
+                "name": "passion fruit puree",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "Licor 43",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "Maraschino liqueur",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1½ ounces",
+                "name": "blended aged rum",
+                "page": null,
+                "num": null,
+                "rum_category": "3"
+            },
+            {
+                "amount": "1½ ounces",
+                "name": "bourbon",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "2 dashes",
+                "name": "Peychaud",
+                "page": null,
+                "num": null
+            }
+        ]
+    },
+    {
+        "name": "merciless virgin",
+        "page": 67,
+        "ingredients": [
+            {
+                "amount": "¾ ounce",
+                "name": "fresh lemon juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "seltzer",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "Cherry Heering liqueur",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "John D. Taylor's Velvet Falernum",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "¼ ounce",
+                "name": "Pierre Ferrand Dry Curaçao",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1½ ounces",
+                "name": "blended lightly aged rum",
+                "page": null,
+                "num": null,
+                "rum_category": "2"
+            }
+        ]
+    },
+    {
+        "name": "millionaire cocktail (no. 1)",
+        "page": 175
+    },
+    {
+        "name": "mundo perdido",
+        "page": 93,
+        "ingredients": [
+            {
+                "amount": "¾ ounce",
+                "name": "fresh lemon juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "¼ ounce",
+                "name": "SC Cinnamon Syrup",
+                "page": "327",
+                "num": null
+            },
+            {
+                "amount": "¼ ounce",
+                "name": "SC Demerara Syrup",
+                "page": "324",
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "apple brandy",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1½ ounces",
+                "name": "black blended rum",
+                "page": null,
+                "num": null,
+                "rum_category": "5"
+            }
+        ]
+    },
+    {
+        "name": "the naked ape",
+        "page": 134,
+        "ingredients": [
+            {
+                "amount": "½ ounce",
+                "name": "fresh lemon juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "SC Cinnamon Syrup",
+                "page": "327",
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "Giffard Banane du Brésil banana liqueur",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1½ ounces",
+                "name": "black blended rum",
+                "page": null,
+                "num": null,
+                "rum_category": "5"
+            },
+            {
+                "amount": "½ ounce",
+                "name": "pot still lightly aged rum",
+                "page": null,
+                "num": null,
+                "rum_category": "1"
+            },
+            {
+                "amount": "1 dash",
+                "name": "Angostura bitters",
+                "page": null,
+                "num": null
+            }
+        ]
+    },
+    {
+        "name": "navy grog",
+        "page": 271,
+        "ingredients": [
+            {
+                "amount": "¾ ounce",
+                "name": "fresh lime juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "¾ ounce",
+                "name": "fresh grapefruit juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "¼ ounce",
+                "name": "SC Demerara syrup",
+                "page": "324",
+                "num": null
+            },
+            {
+                "amount": "¼ ounce",
+                "name": "St",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1 ounce",
+                "name": "pot still lightly aged",
+                "page": null,
+                "num": null,
+                "rum_category": "1"
+            },
+            {
+                "amount": "1 ounce",
+                "name": "blended lightly aged rum",
+                "page": null,
+                "num": null,
+                "rum_category": "2"
+            },
+            {
+                "amount": "1 ounce",
+                "name": "column still aged rum",
+                "page": null,
+                "num": null,
+                "rum_category": "4"
+            }
+        ]
+    },
+    {
+        "name": "pampanito",
+        "page": 115,
+        "ingredients": [
+            {
+                "amount": "1 ounce",
+                "name": "fresh lemon juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1 ounce",
+                "name": "SC Molasses Syrup",
+                "page": "327",
+                "num": null
+            },
+            {
+                "amount": "2½ ounces",
+                "name": "seltzer",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "¼ ounce",
+                "name": "St",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1½ ounces",
+                "name": "black blended rum",
+                "page": null,
+                "num": null,
+                "rum_category": "5"
+            },
+            {
+                "amount": "1 dash",
+                "name": "Angostura bitters",
+                "page": null,
+                "num": null
+            }
+        ]
+    },
+    {
+        "name": "paniolo old-fashioned",
+        "page": 203,
+        "ingredients": [
+            {
+                "amount": "1 teaspoon",
+                "name": "Li Hing Mui Syrup",
+                "page": "332",
+                "num": null
+            },
+            {
+                "amount": "2 ounces",
+                "name": "blended aged rum",
+                "page": null,
+                "num": null,
+                "rum_category": "3"
+            },
+            {
+                "amount": "1 dash",
+                "name": "Angostura bitters",
+                "page": null,
+                "num": null
+            }
+        ]
+    },
+    {
+        "name": "parisian blonde",
+        "page": 174,
+        "ingredients": [
+            {
+                "amount": "1 ounce",
+                "name": "Pierre Ferrand Dry Curaçao",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1 ounce",
+                "name": "blended aged rum",
+                "page": null,
+                "num": null,
+                "rum_category": "3"
+            },
+            {
+                "amount": "1 ounce",
+                "name": "sweet cream",
+                "page": null,
+                "num": null
+            }
+        ]
+    },
+    {
+        "name": "peachtree punch 2.0",
+        "page": 96,
+        "ingredients": [
+            {
+                "amount": "½ chunk",
+                "name": "fresh yellow or white peach",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "3 ounces",
+                "name": "fresh orange juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "fresh lemon juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1 ounce",
+                "name": "SC Coconut Cream",
+                "page": "328",
+                "num": null
+            },
+            {
+                "amount": "¼ ounce",
+                "name": "natural peach liqueur",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "2 ounces",
+                "name": "blended lightly aged rum",
+                "page": null,
+                "num": null,
+                "rum_category": "2"
+            },
+            {
+                "amount": "1 ounce",
+                "name": "seltzer",
+                "page": null,
+                "num": null
+            }
+        ]
+    },
+    {
+        "name": "piñata",
+        "page": 252
+    },
+    {
+        "name": "planter's punch",
+        "page": 258,
+        "ingredients": [
+            {
+                "amount": "1 ounce",
+                "name": "fresh lime juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "¾ ounce",
+                "name": "SC Demerara syrup",
+                "page": "324",
+                "num": null
+            },
+            {
+                "amount": "¼ ounce",
+                "name": "St",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "3 ounces",
+                "name": "blended aged rum",
+                "page": null,
+                "num": null,
+                "rum_category": "3"
+            },
+            {
+                "amount": "2 dashes",
+                "name": "Angostura bitters",
+                "page": null,
+                "num": null
+            }
+        ]
+    },
+    {
+        "name": "port au prince",
+        "page": 40,
+        "ingredients": [
+            {
+                "amount": "½ ounce",
+                "name": "fresh lime juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "pineapple juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "¼ ounce",
+                "name": "SC Demerara Syrup",
+                "page": "324",
+                "num": null
+            },
+            {
+                "amount": "1 dash",
+                "name": "SC Grenadine",
+                "page": "328",
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "John D. Taylor's Velvet Falernum",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1½ ounces",
+                "name": "cane coffey still aged rum",
+                "page": "199",
+                "num": null
+            },
+            {
+                "amount": "1 dash",
+                "name": "Angostura bitters",
+                "page": null,
+                "num": null
+            }
+        ]
+    },
+    {
+        "name": "port royal",
+        "page": 204,
+        "ingredients": [
+            {
+                "amount": "¾ ounce",
+                "name": "fresh lime juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "¾ ounce",
+                "name": "SC Jerk Syrup",
+                "page": "329",
+                "num": null
+            },
+            {
+                "amount": "1½ ounces",
+                "name": "blended lightly aged rum",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "Wray",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "5 drops",
+                "name": "SC Hellfire Tincture",
+                "page": "332",
+                "num": null
+            }
+        ]
+    },
+    {
+        "name": "puka punch",
+        "page": 318,
+        "ingredients": [
+            {
+                "amount": "1 ounce",
+                "name": "fresh lime juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "¾ ounce",
+                "name": "fresh orange juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "¾ ounce",
+                "name": "pineapple juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1 ounce",
+                "name": "SC Honey Syrup",
+                "page": "325",
+                "num": null
+            },
+            {
+                "amount": "¾ ounce",
+                "name": "SC Passion Fruit Syrup",
+                "page": "325",
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "John D. Taylor's Velvet Falernum",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1 ounce",
+                "name": "blended aged rum 3",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1 ounce",
+                "name": "blended lightly aged rum 2",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "¾ ounce",
+                "name": "black blended rum 5",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1 dash",
+                "name": "Angostura bitters",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "¾ ounce",
+                "name": "black blended overproof rum 6",
+                "page": null,
+                "num": null
+            }
+        ]
+    },
+    {
+        "name": "pupule",
+        "page": 39
+    },
+    {
+        "name": "queen's park swizzle",
+        "page": 181,
+        "ingredients": [
+            {
+                "amount": "4 whole",
+                "name": "mint leaves",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "fresh lime juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "SC Demerara Syrup",
+                "page": "324",
+                "num": null
+            },
+            {
+                "amount": "2 ounces",
+                "name": "black blended rum",
+                "page": null,
+                "num": null,
+                "rum_category": "5"
+            },
+            {
+                "amount": "2 dashes",
+                "name": "Angostura bitters",
+                "page": null,
+                "num": null
+            }
+        ]
+    },
+    {
+        "name": "richard sealebach",
+        "page": 209,
+        "ingredients": [
+            {
+                "amount": "½ ounce",
+                "name": "Pierre Ferrand Dry Curaçao",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1 ounce",
+                "name": "R",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "7 dashes",
+                "name": "Angostura bitters",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "7 dashes",
+                "name": "Peychaud",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "4 ounces",
+                "name": "chilled champagne",
+                "page": null,
+                "num": null
+            }
+        ]
+    },
+    {
+        "name": "roselita",
+        "page": 120,
+        "ingredients": [
+            {
+                "amount": "1½ ounces",
+                "name": "seltzer",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "fresh lime juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "SC Orgeat",
+                "page": "330",
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "SC Hibiscus Liqueur",
+                "page": "331",
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "natural pear liqueur",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1½ ounces",
+                "name": "column still aged rum",
+                "page": null,
+                "num": null,
+                "rum_category": "4"
+            },
+            {
+                "amount": "1 dash",
+                "name": "Peychaud",
+                "page": null,
+                "num": null
+            }
+        ]
+    },
+    {
+        "name": "rumbustion punch",
+        "page": 313,
+        "ingredients": [
+            {
+                "amount": "1 ounce",
+                "name": "fresh lime juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "SC Demerara Syrup",
+                "page": "324",
+                "num": null
+            },
+            {
+                "amount": "¼ ounce",
+                "name": "SC Cinnamon Syrup",
+                "page": "327",
+                "num": null
+            },
+            {
+                "amount": "1 ounce",
+                "name": "blended aged rum 3",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1 ounce",
+                "name": "blended lightly aged rum 2",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "2 dashes",
+                "name": "Herbstura",
+                "page": "228",
+                "num": null
+            }
+        ]
+    },
+    {
+        "name": "rum flip",
+        "page": 165,
+        "ingredients": [
+            {
+                "amount": "¼ ounce",
+                "name": "SC Demerara Syrup",
+                "page": "324",
+                "num": null
+            },
+            {
+                "amount": "2 ounces",
+                "name": "blended aged rum",
+                "page": null,
+                "num": null,
+                "rum_category": "3"
+            }
+        ]
+    },
+    {
+        "name": "scorpion",
+        "page": 272,
+        "ingredients": [
+            {
+                "amount": "2 ounces",
+                "name": "fresh lime juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "4 ounces",
+                "name": "fresh orange juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1½ ounces",
+                "name": "SC Demerara syrup",
+                "page": "324",
+                "num": null
+            },
+            {
+                "amount": "2 ounces",
+                "name": "SC Orgeat",
+                "page": "330",
+                "num": null
+            },
+            {
+                "amount": "2 ounces",
+                "name": "brandy",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "4 ounces",
+                "name": "London Dry Gin",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "4 ounces",
+                "name": "blended lightly aged rum",
+                "page": null,
+                "num": null,
+                "rum_category": "2"
+            }
+        ]
+    },
+    {
+        "name": "shudders in a whisper",
+        "page": 118
+    },
+    {
+        "name": "sidewinder's fang",
+        "page": 62,
+        "ingredients": [
+            {
+                "amount": "1 whole",
+                "name": "sidewinder",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1½ ounces",
+                "name": "fresh lime juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1½ ounces",
+                "name": "fresh orange juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1½ ounces",
+                "name": "SC Passion Fruit Syrup",
+                "page": "325",
+                "num": null
+            },
+            {
+                "amount": "3 ounces",
+                "name": "seltzer",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1 ounce",
+                "name": "blended aged rum",
+                "page": null,
+                "num": null,
+                "rum_category": "3"
+            },
+            {
+                "amount": "1 ounce",
+                "name": "black blended rum",
+                "page": null,
+                "num": null,
+                "rum_category": "5"
+            }
+        ]
+    },
+    {
+        "name": "smuggler's rum barrel",
+        "page": 139
+    },
+    {
+        "name": "sparkling mai tai",
+        "page": 136,
+        "ingredients": [
+            {
+                "amount": "¼ ounce",
+                "name": "fresh lime juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "¼ ounce",
+                "name": "SC Orgeat",
+                "page": "330",
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "Pierre Ferrand Dry Curaçao",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "¼ ounce",
+                "name": "black blended overproof rum",
+                "page": null,
+                "num": null,
+                "rum_category": "6"
+            },
+            {
+                "amount": "½ ounce",
+                "name": "blended aged rum",
+                "page": null,
+                "num": null,
+                "rum_category": "3"
+            },
+            {
+                "amount": "4 ounces",
+                "name": "chilled sparkling wine",
+                "page": null,
+                "num": null
+            }
+        ]
+    },
+    {
+        "name": "spontaneous rumbustion",
+        "page": 210,
+        "ingredients": [
+            {
+                "amount": "¾ ounce",
+                "name": "fresh lemon juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "SC Honey Syrup",
+                "page": "325",
+                "num": null
+            },
+            {
+                "amount": "1½ ounces",
+                "name": "black blended overproof rum",
+                "page": null,
+                "num": null,
+                "rum_category": "6"
+            },
+            {
+                "amount": "½ ounce",
+                "name": "pot still lightly aged rum",
+                "page": null,
+                "num": null,
+                "rum_category": "1"
+            },
+            {
+                "amount": "4 ounces",
+                "name": "boiling water",
+                "page": null,
+                "num": null
+            }
+        ]
+    },
+    {
+        "name": "three dots and a dash",
+        "page": 43,
+        "ingredients": [
+            {
+                "amount": "½ ounce",
+                "name": "fresh lime juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "fresh orange juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "SC Honey Syrup",
+                "page": "325",
+                "num": null
+            },
+            {
+                "amount": "¼ ounce",
+                "name": "John D. Taylor's Velvet Falernum",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "¼ ounce",
+                "name": "St",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1½ ounces",
+                "name": "cane AC Martinique rhum agricole vieux",
+                "page": null,
+                "num": null,
+                "rum_category": "8"
+            },
+            {
+                "amount": "½ ounce",
+                "name": "blended aged rum",
+                "page": null,
+                "num": null,
+                "rum_category": "3"
+            },
+            {
+                "amount": "1 dash",
+                "name": "Angostura bitters",
+                "page": null,
+                "num": null
+            }
+        ]
+    },
+    {
+        "name": "tiki bowl",
+        "page": 68,
+        "ingredients": [
+            {
+                "amount": "1½ ounces",
+                "name": "fresh orange juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "¾ ounce",
+                "name": "fresh lime juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1 ounce",
+                "name": "SC Honey Syrup",
+                "page": "325",
+                "num": null
+            },
+            {
+                "amount": "1¼ ounce",
+                "name": "black blended rum",
+                "page": null,
+                "num": null,
+                "rum_category": "5"
+            },
+            {
+                "amount": "1 ounce",
+                "name": "black blended overproof rum",
+                "page": null,
+                "num": null,
+                "rum_category": "6"
+            },
+            {
+                "amount": "1 ounce",
+                "name": "column still aged rum",
+                "page": null,
+                "num": null,
+                "rum_category": "4"
+            },
+            {
+                "amount": "2 dashes",
+                "name": "Herbstura",
+                "page": "228",
+                "num": null
+            }
+        ]
+    },
+    {
+        "name": "top notch volcano",
+        "page": 134,
+        "ingredients": [
+            {
+                "amount": "4 ounces",
+                "name": "fresh lime juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "4 ounces",
+                "name": "pineapple juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1 ounce",
+                "name": "passion fruit puree",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "3 ounces",
+                "name": "SC Demerara Syrup",
+                "page": "324",
+                "num": null
+            },
+            {
+                "amount": "1 ounce",
+                "name": "Luxardo Maraschino liqueur",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "4 ounces",
+                "name": "blended lightly aged rum",
+                "page": null,
+                "num": null,
+                "rum_category": "2"
+            },
+            {
+                "amount": "4 ounces",
+                "name": "blended aged rum",
+                "page": null,
+                "num": null,
+                "rum_category": "3"
+            }
+        ]
+    },
+    {
+        "name": "tradewinds",
+        "page": 94,
+        "ingredients": [
+            {
+                "amount": "1 ounce",
+                "name": "fresh lemon juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1½ ounces",
+                "name": "SC Coconut Cream",
+                "page": "328",
+                "num": null
+            },
+            {
+                "amount": "1 ounce",
+                "name": "natural apricot liqueur",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1 ounce",
+                "name": "black blended rum",
+                "page": null,
+                "num": null,
+                "rum_category": "5"
+            },
+            {
+                "amount": "1 ounce",
+                "name": "blended lightly aged rum",
+                "page": null,
+                "num": null,
+                "rum_category": "2"
+            }
+        ]
+    },
+    {
+        "name": "triumvirate punch",
+        "page": 312,
+        "ingredients": [
+            {
+                "amount": "¾ ounce",
+                "name": "fresh lime juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1 ounce",
+                "name": "SC Passion Fruit Honey",
+                "page": "325",
+                "num": null
+            },
+            {
+                "amount": "¼ ounce",
+                "name": "St",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1½ ounces",
+                "name": "pot still unaged rum",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "2 dashes",
+                "name": "Angostura bitters",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "Pinch of",
+                "name": "freshly grated nutmeg",
+                "page": null,
+                "num": null
+            }
+        ]
+    },
+    {
+        "name": "twelve mile limit",
+        "page": 172,
+        "ingredients": [
+            {
+                "amount": "½ ounce",
+                "name": "fresh lemon juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "SC Grenadine",
+                "page": "328",
+                "num": null
+            },
+            {
+                "amount": "1 ounce",
+                "name": "blended lightly aged rum",
+                "page": null,
+                "num": null,
+                "rum_category": "2"
+            },
+            {
+                "amount": "½ ounce",
+                "name": "rye",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "brandy",
+                "page": null,
+                "num": null
+            }
+        ]
+    },
+    {
+        "name": "the twenty seventy swizzle",
+        "page": 116,
+        "ingredients": [
+            {
+                "amount": "½ ounce",
+                "name": "fresh lime juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "SC Demerara Syrup",
+                "page": "324",
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "SC Honey Syrup",
+                "page": "325",
+                "num": null
+            },
+            {
+                "amount": "¼ ounce",
+                "name": "St",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1 ounce",
+                "name": "column still aged rum",
+                "page": null,
+                "num": null,
+                "rum_category": "4"
+            },
+            {
+                "amount": "1 ounce",
+                "name": "black blended overproof rum",
+                "page": null,
+                "num": null,
+                "rum_category": "6"
+            },
+            {
+                "amount": "1 dash",
+                "name": "Herbstura",
+                "page": "228",
+                "num": null
+            },
+            {
+                "amount": "Pinch of",
+                "name": "freshly grated nutmeg",
+                "page": null,
+                "num": null
+            }
+        ]
+    },
+    {
+        "name": "the undead gentleman",
+        "page": 142
+    },
+    {
+        "name": "wilfred brimley",
+        "page": 202
+    },
+    {
+        "name": "a wish for grace",
+        "page": 201,
+        "ingredients": [
+            {
+                "amount": "¾ ounce",
+                "name": "fresh lemon juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "2",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "Pierre Ferrand Dry Curaçao",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1½ ounces",
+                "name": "pot still lightly aged rum",
+                "page": null,
+                "num": null,
+                "rum_category": "1"
+            },
+            {
+                "amount": "¾ ounce",
+                "name": "Blandy",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1 dash",
+                "name": "Angostura bitters",
+                "page": null,
+                "num": null
+            }
+        ]
+    },
+    {
+        "name": "wray & ting",
+        "page": 176,
+        "ingredients": [
+            {
+                "amount": "1½ ounces",
+                "name": "Wray",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "4 ounces",
+                "name": "Ting grapefruit soda",
+                "page": null,
+                "num": null
+            }
+        ]
+    },
+    {
+        "name": "yuletidal wave",
+        "page": 313,
+        "ingredients": [
+            {
+                "amount": "2 ounces",
+                "name": "pineapple juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1 ounce",
+                "name": "fresh lemon juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "natural pear liqueur",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "Licor 43",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "¼ ounce",
+                "name": "St",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "brandy",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1 ounce",
+                "name": "bourbon",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1 ounce",
+                "name": "column still aged rum 4",
+                "page": null,
+                "num": null
+            }
+        ]
+    },
+    {
+        "name": "zombie",
+        "page": 268,
+        "ingredients": [
+            {
+                "name": "fresh lime juice",
+                "amount": "¾ ounce",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "¼ ounce",
+                "name": "fresh grapefruit juice",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "¼ ounce",
+                "name": "SC Cinnamon Syrup",
+                "page": "327",
+                "num": null
+            },
+            {
+                "amount": "1 teaspoon",
+                "name": "SC Grenadine",
+                "page": "328",
+                "num": null
+            },
+            {
+                "amount": "½ ounce",
+                "name": "John D. Taylor's Velvet Falernum",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1½ ounces",
+                "name": "blended aged rum",
+                "rum_category": "3",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1½ ounces",
+                "name": "column still aged rum",
+                "rum_category": "4",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "1 ounce",
+                "name": "black blended overproof rum",
+                "rum_category": "6",
+                "page": null,
+                "num": null
+            },
+            {
+                "amount": "2 dashes",
+                "name": "Herbstura",
+                "page": null,
+                "num": null
+            }
+        ]
+    },
+    {"name": "abricot vieux", "page": 203},
+    {"name": "agricole guava cooler", "page": 209},
+    {"name": "Baie Du Galion", "page": 206},
+    {"name": "batida de maracuja e coco", "page": 175},
+    {"name": "chartreuse swizzle", "page": 120},
+    {"name": "donn day afternoon", "page": 206},
+    {"name": "el draque", "page": 163},
+    {"name": "for pete's sake", "page": 145},
+    {"name": "halekulani cocktail", "page": 61},
+    {"name": "hawaiian sunset", "page": 62},
+    {"name": "humuhumunukunukuapuaa", "page": 144},
+    {"name": "juan ho royale", "page": 119},
+    {"name": "max's mistake", "page": 115},
+    {"name": "mexican el diablo", "page": 43},
+    {"name": "monk's respite", "page": 251},
+    {"name": "norwegian paralysis", "page": 119},
+    {"name": "port light", "page": 44},
+    {"name": "saturn", "page": 67},
+    {"name": "sc hot buttered rum batter", "page": 202},
+    {"name": "singapore sling", "page": 276},
+    {"name": "swizzle francais", "page": 136},
+    {"name": "the ernesto", "page": 137},
+    {"name": "the sexpert", "page": 137},
+    {"name": "ti punch", "page": 179}
 ]
