@@ -9,7 +9,7 @@ class Processor:
     filename = None
     input = None
     output = None
-    amt_pattern = r'(?P<amount>\w+ ((ounces?)|(dash(es)?)|(teaspoon)))'
+    amt_pattern = r'(?P<amount>(\w+ (to \w+ )?((ounces?)|(dash(es)?)|(teaspoons?)|(tablespoons?)|(chunks?)|(drops?)|(barspoons?)|(whole)|(cups?)|(slice)))|(Pinch of))'
     name_pattern = r'(?P<name>\w+( [\w.\']+)*)( \(page (?P<page>\d+)\))?'
     number_pattern = r'(?P<num>\d+)'
 
@@ -48,6 +48,9 @@ class Processor:
         return len(ingredients)
 
     def processLine(self, line, ingredients):
+        if not line:
+            return
+
         match = self.line_rx.match(line)
         if match:
             matchdict = match.groupdict()
