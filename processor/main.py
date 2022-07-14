@@ -10,7 +10,7 @@ class Processor:
     input = None
     output = None
     amt_pattern = r'(?P<amount>(\w+ (to \w+ )?((ounces?)|(dash(es)?)|(teaspoons?)|(tablespoons?)|(chunks?)|(drops?)|(barspoons?)|(whole)|(cups?)|(slice)))|(Pinch of))'
-    name_pattern = r'(?P<name>\w+( [\w.\']+)*)( \(page (?P<page>\d+)\))?'
+    name_pattern = r'(?P<name>[\w\.]+( [\w\.\']+)*)( \(page (?P<page>\d+)\))?'
     number_pattern = r'(?P<num>\d+)'
 
     def __init__(self, **kwargs) -> None:
