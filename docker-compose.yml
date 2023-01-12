@@ -1,6 +1,14 @@
 version: "3.9"
 services:
   processor:
-    build: .
+    image: processor
+    build: ./data_generation
     volumes:
-      - .:/code
+      - ./data_generation:/code
+  app:
+    image: sc-drink-app
+    build: ./app
+    volumes:
+      - ./app/src:/code
+    ports:
+      - 8000:8000
